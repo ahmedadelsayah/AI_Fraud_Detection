@@ -1,0 +1,15 @@
+pandas
+numpy
+scikit-learn
+imbalanced-learn
+matplotlib
+seaborn
+joblib
+jupyter
+xgboost
+fastapi
+uvicorn
+pydantic
+streamlit
+requests
+plotly
